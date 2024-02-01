@@ -1,0 +1,1 @@
+SELECT * FROM [Medical20].[dbo].[Check]
